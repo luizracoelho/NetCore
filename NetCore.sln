@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore", "NetCore\NetCore.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.UiConsole", "NetCore.UiConsole\NetCore.UiConsole.csproj", "{77A39B5E-B90D-4B8E-B2FC-0B009E3F9E1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Api", "NetCore.Api\NetCore.Api.csproj", "{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,5 +58,17 @@ Global
 		{77A39B5E-B90D-4B8E-B2FC-0B009E3F9E1E}.Release|x64.Build.0 = Release|x64
 		{77A39B5E-B90D-4B8E-B2FC-0B009E3F9E1E}.Release|x86.ActiveCfg = Release|x86
 		{77A39B5E-B90D-4B8E-B2FC-0B009E3F9E1E}.Release|x86.Build.0 = Release|x86
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Debug|x64.ActiveCfg = Debug|x64
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Debug|x64.Build.0 = Debug|x64
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Debug|x86.ActiveCfg = Debug|x86
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Debug|x86.Build.0 = Debug|x86
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Release|x64.ActiveCfg = Release|x64
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Release|x64.Build.0 = Release|x64
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Release|x86.ActiveCfg = Release|x86
+		{0A51D8DA-AC15-4B78-9CC1-A05F020C6A56}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
